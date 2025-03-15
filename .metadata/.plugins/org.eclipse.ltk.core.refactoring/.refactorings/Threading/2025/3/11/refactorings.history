@@ -1,0 +1,4 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<session version="1.0">
+<refactoring comment="Rename type &apos;TestThreading2&apos; to &apos;TestAddition&apos;&#x0D;&#x0A;- Original project: &apos;Threading&apos;&#x0D;&#x0A;- Original element: &apos;TestThreading2&apos;&#x0D;&#x0A;- Renamed element: &apos;TestAddition&apos;&#x0D;&#x0A;- Update references to refactored element&#x0D;&#x0A;- Rename similarly named elements&#x0D;&#x0A;- Update textual occurrences in comments and strings" description="Rename type &apos;TestThreading2&apos;" flags="589830" id="org.eclipse.jdt.ui.rename.type" input="/src&lt;{TestThreading2.java[TestThreading2" matchStrategy="1" name="TestAddition" qualified="false" references="true" similarDeclarations="true" stamp="1742030369755" textual="false" version="1.0"/>
+</session>

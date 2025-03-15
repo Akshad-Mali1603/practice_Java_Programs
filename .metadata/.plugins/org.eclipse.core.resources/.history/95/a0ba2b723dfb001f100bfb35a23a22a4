@@ -1,0 +1,12 @@
+
+public class departmentService {
+
+	public departmentService() {
+		super();
+		// TODO Auto-generated constructor stub
+		con
+	}
+
+	
+	
+}

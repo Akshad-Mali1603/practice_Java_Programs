@@ -1,0 +1,12 @@
+import java.io.ObjectOutputStream;
+
+public class mainInputOutputStream {
+
+	public static void main(String[] args) {
+		
+		TestInputStream in=new TestInputStream();
+		ObjectOutputStream out=new ObjectOutputStream
+
+	}
+
+}
